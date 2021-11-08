@@ -1,1 +1,1 @@
-# Notes for AWS Certified Solutions Architect
+# The Meaning of Solution Architecture
